@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "DataLogger.Client",
   "resources": {
-    "hash": "sha256-Gcjkk4hWV8V/oJJJn1sJyqUc4W5v12z4oYE6jLujmeE=",
+    "hash": "sha256-xLZdN+lL3vYCBYJju73/PMYrPqk5HeNuwID9uF+rNYc=",
     "fingerprinting": {
-      "DataLogger.Client.poocnj5jfn.wasm": "DataLogger.Client.wasm",
+      "DataLogger.Client.ncnd85dpjn.wasm": "DataLogger.Client.wasm",
       "Microsoft.AspNetCore.Components.Forms.3qh9t4or2h.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
       "Microsoft.AspNetCore.Components.1jbluefeqp.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.xxzncl2btm.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -69,7 +69,7 @@
       "System.Runtime.InteropServices.JavaScript.lu7n7av6ff.wasm": "sha256-fcbhHB7hDI448FbXH9oGRMD0YiK7sml91c0Cfomkn6c="
     },
     "assembly": {
-      "DataLogger.Client.poocnj5jfn.wasm": "sha256-+boFkeH4MoQntPYB0Mv6hm/FqqtUe4f2aNcwaQ3X8ug=",
+      "DataLogger.Client.ncnd85dpjn.wasm": "sha256-ifxMI6FU686sMVuoOSXusyob6ee/dFQikRiBYmHqYoo=",
       "Microsoft.AspNetCore.Components.Forms.3qh9t4or2h.wasm": "sha256-BTHXkhy/9X3p+MX0/sm31OTLsBa/eASz8VZ7QmpdYzQ=",
       "Microsoft.AspNetCore.Components.1jbluefeqp.wasm": "sha256-Y4zzyUUVBtaN6kfbmMJgFFFHhE50hCkIp86Snf6KGRs=",
       "Microsoft.AspNetCore.Components.Web.xxzncl2btm.wasm": "sha256-SwoMPlHS05yT2/LjqTYV4nO5fDMfNfd6qGFDDIKUa9U=",
